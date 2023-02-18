@@ -1,0 +1,27 @@
+{
+    "id": "0E3E616E",
+    "path": "E:/RData/Rpackages/PaternityT/R/CFSI_calculator.R",
+    "project_path": "R/CFSI_calculator.R",
+    "type": "r_source",
+    "hash": "3169334303",
+    "contents": "",
+    "dirty": false,
+    "created": 1669610983999.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "43,35",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1669107397,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1669107397,
+    "read_only": false,
+    "read_only_alternatives": []
+}
