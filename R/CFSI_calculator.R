@@ -162,7 +162,6 @@ CFSI_calculator <- function(x, genename, genestart = 2, genesel = NULL, onecolum
   # 挑选出ID列和gene列
   if (genestart > 2) {
     x <- x[, -2:-(genestart-1)]
-    if (!is.null(y)) {y <- y[, -2:-(genestart-1)]}
   }
   # 格式转化
   genotype_x <- unified_format(x, genename, genesel, onecolumn)
